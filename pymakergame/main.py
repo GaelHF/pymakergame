@@ -8,7 +8,7 @@ class Game():
     color (tuple -> (0, 0, 0) [RGB])
     icon (str -> "assets/icon.png")
     """
-    def __init__(self, name: str = "PyMakerGame", size: tuple = (500, 500), icon: str = "icon.jpg", color: tuple = (255, 255, 255)):
+    def __init__(self, name: str = "PyMakerGame", size: tuple = (500, 500), icon: str = "icon.png", color: tuple = (255, 255, 255)):
         self.name = name
         self.width, self.height = size
         self.icon = icon
