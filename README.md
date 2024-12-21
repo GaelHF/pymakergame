@@ -1,3 +1,4 @@
+![icon](https://raw.githubusercontent.com/GaelHF/pymakergame/refs/heads/main/pymakergame/icon.png)
 # PyMakerGame
 Python Library That Makes Pygame Easy
 
